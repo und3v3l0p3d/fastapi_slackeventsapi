@@ -35,6 +35,6 @@ jobs:
       - name: Install dependencies
         run: poetry install
       - name: Run Tests
-        run: pytest --cov=fastapi_slackeventsapi tests
+        run: poetry run pytest --cov=fastapi_slackeventsapi tests
         
 

@@ -1,4 +1,5 @@
 # Slack Events API adapter for Python with FastAPI  
+[![CI](https://github.com/und3v3l0p3d/fastapi_slackeventsapi/actions/workflows/main.yml/badge.svg)](https://github.com/und3v3l0p3d/fastapi_slackeventsapi/actions/workflows/main.yml)
 
 SlackEventManager is a Python-based solution to recieve and parse events from Slack's Events API
 

@@ -3,7 +3,7 @@ name = "fastapi_slackeventsapi"
 version = "0.1.0"
 description = "FastAPI Implementation of slackeventsapi"
 authors = ["Phygitalism", "und3v3l0p3d <prohibitme@phygitalism.com>", "und3v3l0p3d <prohibitme@ya.ru>"]
-readme = ["README.md"]
+readme = "README.md"
 license = "MIT"
 include = [
     "LICENSE"
@@ -22,7 +22,7 @@ classifiers = [
     "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
 ]
-hompage = "https://github.com/und3v3l0p3d/fastapi_slackeventsapi"
+homepage = "https://github.com/und3v3l0p3d/fastapi_slackeventsapi"
 repository = "https://github.com/und3v3l0p3d/fastapi_slackeventsapi"
 
 [tool.poetry.dependencies]
